@@ -1,0 +1,1 @@
+Hello, World! This is NodeJS fs, event and buffer core module program.
