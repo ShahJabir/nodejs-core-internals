@@ -6,7 +6,7 @@
 If you are here to _"learn Express"_ or _"learn a framework"_, this repo is **not for you**.
 If you want to **understand what a JS runtime really is and how it works under the hood — in all its current forms**, welcome.
 
-![Alt](https://repobeats.axiom.co/api/embed/abce5e301e4393e503fdfb70248e5d576ec8da16.svg "Repobeats analytics image")
+![status](https://repobeats.axiom.co/api/embed/abce5e301e4393e503fdfb70248e5d576ec8da16.svg "Repobeats analytics image")
 
 ---
 
